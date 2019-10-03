@@ -32,6 +32,7 @@
 # FIXME - should get integrated into Upheno
 
 'BFO': 'http://purl.obolibrary.org/obo/BFO_'                        # Basic Formal Ontology
+'MADS': 'http://www.loc.gov/mads/rdf/v1#'                           # Metadata Authority Description Schema in RDF 
 'COHD': 'http://purl.obolibrary.org/obo/COHD_'                      # Columbia Open Health Data
 'CHEBI': 'http://purl.obolibrary.org/obo/CHEBI_'                    # Chemicals of Biological Interest
 'CHR': 'http://purl.obolibrary.org/obo/CHR_'                        # Chromosome Ontology
